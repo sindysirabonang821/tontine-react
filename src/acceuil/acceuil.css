@@ -1,0 +1,157 @@
+#side{
+    /* margin-left: -2.3rem; */
+     /* position: fixed; */
+     top: 0;
+     left: 0;
+     height: 100vh !important;
+    padding-left:20px;
+    z-index: 1000;
+    background-color: #224957 !important;
+    width: 250px!important;
+    /* height: 62rem !important; */
+  }
+  .link{
+    color: #fff;
+    text-decoration: none;
+  }
+  .navbar{
+    height: 4rem;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 500; 
+    /* width: 70% !important; */
+    /* margin-right: -29rem  !important; */
+    /* margin-right: 25rem; */
+    /* margin-top: -8rem !important; */
+    
+  }
+  .progress-bar{
+    width: 55%;
+        background-color: #20df7f !important;
+
+  }
+.progress{
+    height: 6px !important;
+    width: 20rem;
+}
+.Ima{
+    height: 5rem;
+}
+.span{
+    margin-left: 18rem !important;
+}
+.color{
+  background-color: #20df7f !important;
+}
+/* .cart{
+  height: 18rem !important;
+} */
+.heade {
+    /* width: 700px; */
+  background-color: #20df7f !important;
+}
+.status-validé{
+  color: #20df7f !important;
+
+}
+.barte{
+  width: 100%;
+  background-color: #20df7f !important;
+}
+.pro2{
+  width: 55%;
+  background-color: #224957 !important;
+}
+.largeure{
+  width: 5rem !important;
+}
+/* parti utilisateur */
+.cart1{
+  background-color: #20df7f !important;
+}
+.ajout{
+  background-color: #224957 !important;
+}
+#btn_ajou_membre{
+  background-color: #20df7f !important;
+  color: #224957;
+}
+.blue{
+  background-color: #224957 !important;
+}
+.li:hover{
+  background-color: #20df7f !important;
+  color: #fff !important;
+}
+Link{
+  text-decoration: none;
+}
+.donut{
+    width: 290px;
+    height: 290px;
+}
+
+.entete{
+    background-color: #20df7f !important;
+    border:1px solid #20df7f;
+}
+ .table th, .table td {
+    border: none;
+  }
+.main{
+    margin-left: 250px !important;
+    padding: 20px !important;
+}
+.chart{
+    width: 417px !important;
+    height: 317px !important;
+}
+.entet{
+    background-color: #224957 !important;
+    color: #fff !important;
+}
+/* -------------partie parametre--------------- */
+.img-profile{
+	background-color: #3aef8bf5 !important;
+	padding: 4px !important;
+	/* margin-left: 4rem !important; */
+}
+
+.trait{
+    border: 1px solid transparent;
+    background-color: rgba(128, 128, 128, 0.155);
+    width: 1%;
+    height: 30rem !important;
+    padding: 1px;
+    margin-left: 5rem!important;
+    
+    }
+.MJ{
+    float: right;
+    background-color: #093545 !important;
+}
+.vert-claire{
+    background-color: #3aef8bf5 ;
+    }
+    /* ----------------partie utilisateurs------------     */
+.btn{
+    float: right;
+    background-color: #093545 ;
+    /* margin-left: 37rem; */
+}
+.no-border {
+    border: none;
+}
+
+.no-border td, .no-border th {
+    border: none;
+}
+a{
+    text-decoration: none !important;
+}
+.table tr td:hover{
+    background-color: #093545;
+    color: #fff;
+}

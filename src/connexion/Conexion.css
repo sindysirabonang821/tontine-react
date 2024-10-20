@@ -1,0 +1,36 @@
+.photo{
+    background-color: #224957 !important;
+    height: 40rem !important;
+    width: 25rem !important;
+  }
+  .bouton{
+    background-color: #20df7f !important;
+  }
+  .texte{
+    color: #224957;
+  }
+  .lien{
+    text-decoration: none;
+    color: #224957;
+  }
+  .liens{
+    text-decoration: none;
+    color: black;
+  }
+  .liens:hover{
+    color: black;
+  }
+  .lien:hover{
+    color: #224957;
+  }
+  #colFormLabelSm{
+    background-color: #224957 !important;
+    color: #fff;
+  }
+  #colFormLabel{
+    background-color: #224957 !important;
+    color: #fff;
+  }
+  ::placeholder{
+    color: #fff !important;
+  }
